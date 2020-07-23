@@ -7,6 +7,6 @@ Graduated in Computing at Centro Universitário Estácio da Amazônia (2018). Ma
 
 ## Find me around the web 🌎:
 - 🌎 Website: [http://adrianopereira.github.io](http://adrianopereira.github.io) 
-- ✉️ E-mail: [mailto:adriano.almeida@inpe.br](mailto:adriano.almeida@inpe.br)
+- ✉️ E-mail: [adriano.almeida@inpe.br](mailto:adriano.almeida@inpe.br)
 - 👨🏽‍🔬 Academic profile: [http://lattes.cnpq.br/7223840348193655](http://lattes.cnpq.br/7223840348193655)
 - 💼 Professional profile: [https://www.linkedin.com/in/-adrianoalmeida](https://www.linkedin.com/in/-adrianoalmeida) 
