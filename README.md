@@ -5,7 +5,7 @@ Graduated in Computing at Centro Universitário Estácio da Amazônia (2018). Ma
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=AdrianoPereira&show_icons=true&hide_border=true)
 ![Langs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoPereira&layout=compact)
-![Trophy's github](https://github-profile-trophy.vercel.app/?username=AdrianoPereira&column=7&margin-w=15)
+![Trophy's github](https://github-profile-trophy.vercel.app/?username=AdrianoPereira&column=3&margin-w=15&margin-h=15)
 
 
 ## Find me around the web 🌎:
