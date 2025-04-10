@@ -19,4 +19,4 @@ My main areas of interest include Computer Science, Data Science, and Artificial
 - ✉️ E-mail: [adriano.almeida@inpe.br](mailto:adriano.almeida@inpe.br)
 - 👨🏽‍🔬 Academic profile: [http://lattes.cnpq.br/7223840348193655](http://lattes.cnpq.br/7223840348193655)
 - 💼 Professional profile: [https://www.linkedin.com/in/-adrianoalmeida](https://www.linkedin.com/in/-adrianoalmeida) 
-- 🆔 ORCID: [https://orcid.org/0000-0001-9605-9805](tps://orcid.org/0000-0001-9605-9805)
+- 🆔 ORCID: [https://orcid.org/0000-0001-9605-9805](https://orcid.org/0000-0001-9605-9805)
